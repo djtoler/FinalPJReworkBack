@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+      "uri":  "mongodb+srv://admin:jamesdjnarcis@grandcircus.44u5y.mongodb.net/NBA?retryWrites=true&w=majority"
+    }
+}
